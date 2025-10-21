@@ -1,0 +1,6 @@
+Aula - 21/10
+
+* Realizamos a configuração de vinculo de pasta origem com o repositório criado via terminal;
+* Abordamos comandos como git commit, git add, git init, entre outros comando que colaboram para que esse processo de vinculo ocorra;
+* Também realizamos o upload de um arquivo que já usamos em outra aula, tudo com o intuito de experienciar algo que vamos usar no desenvolvimento do nosso pim. 
+
